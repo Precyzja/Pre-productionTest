@@ -1,11 +1,11 @@
 [
     {
       "CarouselId": 10,
-        "Version": 5,
+        "Version": 6,
         "IsActive": true,
         "Name": "Warsztat Fitness",
         "Type": "sport",
-        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/sztangicarousel.png",
+        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Places/schronmain.jpg",
         "CastDirection": "localevent",
         "Language": "pl",
         "Lokacja": "Sala fitness w budynku basenu krytego SOSiR w Nowej Dębie",
@@ -14,7 +14,7 @@
         "ShortDescription": "Jak ćwiczyć ze sztangą",
         "Start": "2024-06-08T10:00:00",
         "Url": null,
-        "Wstep": "Informacja i zapisy pod numerem telefonu +48 661 832 284"
+        "Wstep": "Informacja i zapisy pod numerem telefonu +48 661 832 284 555"
     },
     {
         "CarouselId": 11,
